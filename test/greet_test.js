@@ -1,7 +1,7 @@
 
 
 let assert = require("assert");
-const greet = require('./greet');
+const greet = require('../greet');
 
 describe('The greet function', function(){
 
